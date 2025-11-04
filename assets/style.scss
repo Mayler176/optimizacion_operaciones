@@ -1,0 +1,19 @@
+---
+---
+// Importa el tema original para no perder los demás estilos
+@import "{{ site.theme }}";
+
+/* ================================================
+TUS ESTILOS PERSONALIZADOS VAN AQUÍ ABAJO
+================================================
+*/
+
+/* Define un ancho menor para la barra lateral */
+.sidebar {
+  width: 220px !important; /* El original es 320px, puedes jugar con este valor */
+}
+
+/* Mueve el contenido principal para que no quede debajo de la barra */
+.content {
+  margin-left: 240px !important; /* Debe ser un poco más grande que el ancho del sidebar */
+}
