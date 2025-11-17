@@ -25,8 +25,11 @@ Aquí puedes organizar tus temas.
 ### Tema 2: Modelación de procesos con programación lineal
 #### Semana 1
 * [2.1 Componentes y principios de un modelo matemático de programación lineal](enlace-externo.com)
+
 #### Semana 2
 * [2.2 Interpretación de la solución de un problema de programación lineal](otra-pagina.md)
+
+  
 #### Semana 3-5,7
 * [2.3 Problemas clásicos de programación lineal](otrapagina.pdf)
 
@@ -35,6 +38,8 @@ Aquí puedes organizar tus temas.
 #### Semana 5
 * [3.1 Introducción a PE](proyecto.pdf)
 * [3.2 Problemas clásicos de PE](rubrica.md)
+
+
 #### Semana 6-7
 * [3.3 Problemas de redes](rubrica.pdf)
 
@@ -44,9 +49,15 @@ Aquí puedes organizar tus temas.
 * [4.2 Espacios de solución](rubrica.md)
 * [4.3 Solución gráfica](asd.pdf)
 * [4.5 Branch and bound](asd.pdf)
+
+
 #### Semana 8
-* [4.4 Método Simplex]
+* [4.4 Método Simplex](algo.aloh)
+
+* 
 #### Semana 9
+
+
 * [4.6 Complejidad](asd.pdf)
 * [4.7 Uso e software](asd.apf)
 
