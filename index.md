@@ -13,18 +13,49 @@ layout: default
 
 Aquí puedes organizar tus temas.
 
-### Módulo 1: Introducción
-* [Presentación del curso](link-a-tu-pdf.pdf)
-* [Tema 1.1: Conceptos Básicos](pagina-modulo1.md)
-* [Tema 1.2: Historia](pagina-modulo2.md)
+### Tema 1: Introducción a la investigación de operaciones
+#### Semana 1
+* [1.1 Historia de la investigación de operaciones](link-a-tu-pdf.pdf)
+* [1.2 Introducción a la programación lineal y entera](pagina-modulo1.md)
+* [1.3 Aplicaciones en ingeniería industrial](pagina-modulo2.md)
+* [1.4 Tendencias actuales y su relación con IA y ciencia de datos](hola.png)
+* [Laboratorio](laboratorio1.pdf)
 
-### Módulo 2: Metodologías
-* [Tema 2.1: Agile](enlace-externo.com)
-* [Tema 2.2: Scrum](otra-pagina.md)
 
-### Módulo 3: Proyecto Final
-* [Especificaciones del Proyecto](proyecto.pdf)
-* [Rúbrica de Evaluación](rubrica.md)
+### Tema 2: Modelación de procesos con programación lineal
+#### Semana 1
+* [2.1 Componentes y principios de un modelo matemático de programación lineal](enlace-externo.com)
+#### Semana 2
+* [2.2 Interpretación de la solución de un problema de programación lineal](otra-pagina.md)
+#### Semana 3-5,7
+* [2.3 Problemas clásicos de programación lineal](otrapagina.pdf)
+
+
+### Tema 3: Modelación de procesos con programación entera mixta
+#### Semana 5
+* [3.1 Introducción a PE](proyecto.pdf)
+* [3.2 Problemas clásicos de PE](rubrica.md)
+#### Semana 6-7
+* [3.3 Problemas de redes](rubrica.pdf)
+
+### Tema 4. Soluciones con algoritmos algebraicos
+#### Semana 2
+* [4.1 Notaciones](proyecto.pdf)
+* [4.2 Espacios de solución](rubrica.md)
+* [4.3 Solución gráfica](asd.pdf)
+* [4.5 Branch and bound](asd.pdf)
+#### Semana 8
+* [4.4 Método Simplex]
+#### Semana 9
+* [4.6 Complejidad](asd.pdf)
+* [4.7 Uso e software](asd.apf)
+
+### Tema 5. Dualidad y sensibilidad
+#### Semana 9
+* [5.1 Sensibilidad](as.pdf)
+* [5.2 Dualidad](asd.df)
+#### Semana 9-10
+* [5.3 Interpretación](asd.ws)
 
 ---
 
