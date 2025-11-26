@@ -73,26 +73,4 @@ layout: default
 #### Semana 9-10
 * 5.3 Interpretación]
 
----
 
-## Tareas
-
-* **Tarea 1:** Resumen de conceptos. *Fecha de entrega: 10 de septiembre*
-* **Tarea 2:** Prototipo inicial. *Fecha de entrega: 1 de octubre*
-
----
-
-## Recursos Adicionales
-
-* [Sitio oficial de la tecnología que usamos](https://www.ejemplo.com)
-* [Libro recomendado (PDF)](libros/libro-curso.pdf)
-* [Software necesario](https://www.software.com/descarga)
-
----
-
-## Sobre el Profesor
-
-**Prof. jenny Díaz Ramírez**
-* **Email:** tu.correo@institucion.edu
-* **Oficina:** A-123
-* **Horario de asesoría:** Martes y Jueves de 10:00 a 11:00
