@@ -62,7 +62,7 @@ layout: default
   * 5.3 Interpretación
 
 
-## Actividades y laboratorios
+## Actividades/Laboratorios
 
 
 ## Códigos
