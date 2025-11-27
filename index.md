@@ -4,7 +4,7 @@ layout: default
 
 
 Dualidad: [aquí](slides1.md)
-Otra opción: [aquí](presentaciones\Historia, aplicaciones y tendencias de IO.pdf)
+Otra opción: [aquí](presentaciones/Historia,%20aplicaciones%20y%20tendencias%20de%20IO.pdf)
 
 ## Contenidos
 
