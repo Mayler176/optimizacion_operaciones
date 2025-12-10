@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<<<<<<< HEAD
+=======
+
+Dualidad: [aquí](slides1.md)
+Otra opción: [aquí](presentaciones\Historia, aplicaciones y tendencias de IO.pdf)
+
+>>>>>>> parent of 9b1fd75 (corrigiendo pdf)
 ## Contenidos
 
 1. [Presentaciones](#presentaciones)
