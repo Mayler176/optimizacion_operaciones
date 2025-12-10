@@ -1,0 +1,10 @@
+Origen,Destino,Costo,Capacidad
+Planta_1,Centro_A,10,100
+Planta_1,Centro_B,15,80
+Planta_1,Centro_C,20,60
+Planta_2,Centro_A,25,90
+Planta_2,Centro_B,30,70
+Planta_2,Centro_C,35,50
+Planta_3,Centro_A,12,110
+Planta_3,Centro_B,18,85
+Planta_3,Centro_C,22,75

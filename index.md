@@ -1,15 +1,7 @@
 ---
 layout: default
 ---
-## Contenidos
 
-1. [Presentaciones](#presentaciones)
-2. Actividades y Laboratorios
-3. [Códigos](#códigos)
-
----
-
-[pptx](presentaciones/pptx/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pptx){:target="_blank"}
 
 ## Presentaciones
 
@@ -59,7 +51,20 @@ layout: default
   * 5.3 Interpretación
 
 
-## 
+## Laboratorios
+
+* [Laboratorio 1](laboratorios/lab1.md)
+* [Laboratorio 2](laboratorios/lab2.md)
+* [Laboratorio 3](laboratorios/lab3.md)
+* [Laboratorio 4](laboratorios/lab4.md)
+* [Laboratorio 5](laboratorios/lab5.md)
+* [Laboratorio 6](laboratorios/lab6.md)
+* [Laboratorio 7](laboratorios/lab7.md)
+* [Laboratorio 8](laboratorios/lab8.md)
+* [Laboratorio 9](laboratorios/lab9.md)
+* [Laboratorio 10](laboratorios/lab10.md)
+
+
 
 ## Códigos en python
 
