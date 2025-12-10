@@ -2,10 +2,6 @@
 layout: default
 ---
 
-
-Dualidad: [aquí](slides1.md)
-Otra opción: [aquí](presentaciones/Historia,%20aplicaciones%20y%20tendencias%20de%20IO.pdf)
-
 ## Contenidos
 
 1. [Presentaciones](#presentaciones)
@@ -17,7 +13,7 @@ Otra opción: [aquí](presentaciones/Historia,%20aplicaciones%20y%20tendencias%2
 
 **Tema 1: Introducción a la investigación de operaciones**
 * Semana 1
-  * [1.1 Historia de la investigación de operaciones](presentaciones/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pptx)
+  * 1.1 Historia de la investigación de operaciones [[pptx]](presentaciones/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pptx)
   * [1.2 Introducción a la programación lineal y entera](presentaciones/Introducción%20al%20curso.pptx)
 
 **Tema 2: Modelación de procesos con programación lineal**
@@ -61,8 +57,7 @@ Otra opción: [aquí](presentaciones/Historia,%20aplicaciones%20y%20tendencias%2
   * 5.3 Interpretación
 
 
-## Actividades/Laboratorios
-
+## 
 
 ## Códigos en python
 
