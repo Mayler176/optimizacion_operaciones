@@ -8,6 +8,9 @@ layout: default
 3. [Códigos](#códigos)
 
 ---
+
+[link](url){:target="_blank"}
+
 ## Presentaciones
 
 **Tema 1: Introducción a la investigación de operaciones**

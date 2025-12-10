@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 logo: assets/logo.png
 title: Optimización de operaciones
 description: Contenidos de la materia
+
+markdown_extensions:
+  - attr_list
