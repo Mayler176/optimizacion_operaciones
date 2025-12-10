@@ -11,10 +11,7 @@ layout: default
 
 ## Tutorial
 
-Puedes revisar el siguiente video si necesitas una guí para realizar la actividad
-<iframe width="320" height="200"
-src="https://www.youtube.com/watch?v=bkTSs_1i72E">
-</iframe>
+Puedes revisar el siguiente video si necesitas una guía para realizar la actividad puedes consultar el siguiente [video](https://www.youtube.com/watch?v=bkTSs_1i72E)
 
 ## Archivos necesarios
 
@@ -23,16 +20,14 @@ src="https://www.youtube.com/watch?v=bkTSs_1i72E">
 
 ## Instrucciones
 
-* Descarga el archivo **Download** archivocon problemas lineales y el archivo de práctica de Excel **Download** archivo de práctica de Excelque se usará para resolverlos.
+1. Descarga el archivo 1 problemas lineales y el archivo de práctica de Excel que se usará para resolverlos.
+
     * El objetivo de los ejercicios es maximizar la utilidad de productos, sujetos a disponibilidad de materiales y tiempo o minimizar costos.
 
-* Para comenzar, introduce los datos de tu problema de programación lineal en las hojas de Excel del archivo de práctica. Este es un ejemplo básico de cómo organizar los datos para un problema de maximización de la forma:
+2. Para comenzar, introduce los datos de tu problema de programación lineal en las hojas de Excel del archivo de práctica. Este es un ejemplo básico de cómo organizar los datos para un problema de maximización de la forma:
 
 Maximizar
-$$
-
-Z = c1 * x1 + c2 * x2
-$$
+$$ Z = c1 * x1 + c2 * x2 $$
 
 Sujeto a:
 
@@ -42,21 +37,20 @@ $$ x1, x2 ≥ 0 $$
 
 ### Paso 1: Preparar el modelo en Excel mediante una tabla para introducir variables, restricciones y sus coeficientes
 
-* Variables: Coloca las variables en las columnas. Por ejemplo, en la celda B1 coloca x1 y en la celda B2 x2.
+* **Variables**: Coloca las variables en las columnas. Por ejemplo, en la celda B1 coloca x1 y en la celda B2 x2.
 
-* Coeficientes: En una fila de celdas, coloca los coeficientes de la función objetivo (c1 en B2, c2 en C2), y una fila por cada una de las restricciones (a11 en B3, a12 en C3, a21 en B4 y a22 en C4) y sus lados derechos (b1 en F3, b2 en F4).
+* **Coeficientes**: En una fila de celdas, coloca los coeficientes de la función objetivo (c1 en B2, c2 en C2), y una fila por cada una de las restricciones (a11 en B3, a12 en C3, a21 en B4 y a22 en C4) y sus lados derechos (b1 en F3, b2 en F4).
 
-* Definir las celdas para los valores de las variables de decisión, es decir, la cantidad de cada producto a fabricar (x1 en B6, y x2 en C6).
+* **Definir** las celdas para los valores de las variables de decisión, es decir, la cantidad de cada producto a fabricar (x1 en B6, y x2 en C6).
 
-* Calcular la función objetivo, vinculando las variables con los beneficios o costos asociados, en este caso en la celda B8. 
+* **Calcular** la función objetivo, vinculando las variables con los beneficios o costos asociados, en este caso en la celda B8. 
 
-* Calcular los lados izquierdos de las restricciones, vinculando variables con los coeficientes de las restricciones (restricción 1: a11 * x1 + a12 * x2 en D3; restricción 2: a21 * x1 + a22 * x2 en D4).
+* **Calcular** los lados izquierdos de las restricciones, vinculando variables con los coeficientes de las restricciones (restricción 1: a11 * x1 + a12 * x2 en D3; restricción 2: a21 * x1 + a22 * x2 en D4).
 
     * Es conveniente utilizar la función SUMAPRODUCTO para los cálculos de función objetivo y lados izquierdos de restricciones.
 * Configurar Solver en Excel para:
 
     * Maximizar o minimizar la función objetivo.
-
     * Sujetar a las restricciones de recursos.
     * Restringir las variables de decisión a valores no negativos.
 
@@ -109,7 +103,6 @@ $$ x1, x2 ≥ 0 $$
 * **Archivo de Excel**  con los modelos formulados, Solver configurado y soluciones óptimas visibles. 
 * **Breve nota** en una celda o comentario explicando la interpretación del resultado obtenido con Solver.
 
-A menos que se indique expresamente algo diferente, todas las actividades de laboratorio requieren que se suban los archivos individualmente. Los archivos de código deben crearse y escribirse de forma individual. Copiar, adaptar archivos de otros, reemplazar nombres y/o "poner varios nombres" en un archivo de código está prohibido y se considera una falta a la integridad académica.
 
 ## Especificaciones
 

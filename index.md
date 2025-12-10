@@ -16,7 +16,7 @@ layout: default
 * Semana 2
   * 2.2 Interpretación de la solución de un problema de programación lineal
 * Semana 3-5,7
-  * 2.3 Problemas clásicos de programación lineal [[pptx]](presentaciones/pptx/Modelación%20de%20PPLs%20.pptx) [[pdf]](presentaciones/pppdftx/Modelación%20de%20PPLs%20.pdf)
+  * 2.3 Problemas clásicos de programación lineal [[pptx]](presentaciones/pptx/Modelación%20de%20PPLs%20.pptx) [[pdf]](presentaciones/pdf/Modelación%20de%20PPLs%20.pdf)
 
 **Tema 3: Modelación de procesos con programación entera mixta**
 * Semana 5
