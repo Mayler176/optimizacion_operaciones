@@ -69,9 +69,13 @@ layout: default
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 
 =======
 ## Actividades y laboratorios
+=======
+## Actividades/Laboratorios
+>>>>>>> parent of b2e2515 (Merge branch 'main' into master)
 
 >>>>>>> parent of 4f63e40 (no sé que estoy haciendo)
 
