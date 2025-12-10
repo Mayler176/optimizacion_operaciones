@@ -9,50 +9,51 @@ layout: default
 
 ---
 
+
 ## Presentaciones
 
 **Tema 1: Introducción a la investigación de operaciones**
 * Semana 1
-  * 1.1 Historia de la investigación de operaciones [[pptx]](presentaciones/pptx/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pdf{target=_blank})
-  * 1.2 Introducción a la programación lineal y entera [[pptx]](presentaciones/pptx/Introducción%20al%20curso.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Introducción%20al%20curso.pdf{target=_blank})
+  * 1.1 Historia de la investigación de operaciones [[pptx]](presentaciones/pptx/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pptx) [[pdf]](presentaciones/pdf/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pdf)
+  * 1.2 Introducción a la programación lineal y entera [[pptx]](presentaciones/pptx/Introducción%20al%20curso.pptx) [[pdf]](presentaciones/pdf/Introducción%20al%20curso.pdf)
 
 **Tema 2: Modelación de procesos con programación lineal**
 * Semana 1
-  * 2.1 Componentes y principios de un modelo matemático de programación lineal [[pptx]](presentaciones/pptx/Programación%20Lineal%20-%20Principios%20y%20componentes%20de%20un%20modelo.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Programación%20Lineal%20-%20Principios%20y%20componentes%20de%20un%20modelo.pdf{target=_blank})
+  * 2.1 Componentes y principios de un modelo matemático de programación lineal [[pptx]](presentaciones/pptx/Programación%20Lineal%20-%20Principios%20y%20componentes%20de%20un%20modelo.pptx) [[pdf]](presentaciones/pdf/Programación%20Lineal%20-%20Principios%20y%20componentes%20de%20un%20modelo.pdf)
 * Semana 2
   * 2.2 Interpretación de la solución de un problema de programación lineal
 * Semana 3-5,7
-  * 2.3 Problemas clásicos de programación lineal [[pptx]](presentaciones/pptx/Modelación%20de%20PPLs%20.pptx{target=_blank}) [[pdf]](presentaciones/pppdftx/Modelación%20de%20PPLs%20.pdf{target=_blank})
+  * 2.3 Problemas clásicos de programación lineal [[pptx]](presentaciones/pptx/Modelación%20de%20PPLs%20.pptx) [[pdf]](presentaciones/pppdftx/Modelación%20de%20PPLs%20.pdf)
 
 **Tema 3: Modelación de procesos con programación entera mixta**
 * Semana 5
-  * 3.1 Introducción a PE [[pptx]](presentaciones/pptx/Introducción%20a%20Programación%20Entera.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Introducción%20a%20Programación%20Entera.pdf{target=_blank})
+  * 3.1 Introducción a PE [[pptx]](presentaciones/pptx/Introducción%20a%20Programación%20Entera.pptx) [[pdf]](presentaciones/pdf/Introducción%20a%20Programación%20Entera.pdf)
   * 3.2 Problemas clásicos de PE
 * Semana 6-7
-  * 3.3 Problemas de redes [[pptx]](presentaciones/pptx/Modelos%20de%20Redes.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Modelos%20de%20Redes.pdf{target=_blank})
+  * 3.3 Problemas de redes [[pptx]](presentaciones/pptx/Modelos%20de%20Redes.pptx) [[pdf]](presentaciones/pdf/Modelos%20de%20Redes.pdf)
 
 **Tema 4. Soluciones con algoritmos algebraicos**
 * Semana 2
-  * 4.1 Notaciones [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Notación.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Notación.pdf{target=_blank})
-  * 4.2 Espacios de solución [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Espacios%20de%20solución.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Espacios%20de%20solución.pdf{target=_blank})
-  * 4.3 Solución gráfica [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Gráfico.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Gráfico.pdf{target=_blank})
-  * 4.5 Branch and bound [[pptx]](presentaciones/pptx/Solución%20de%20un%20Problema%20de%20PE%20-%20Método%20Branch%20%26%20Bound.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20Problema%20de%20PE%20-%20Método%20Branch%20%26%20Bound.pdf{target=_blank})
+  * 4.1 Notaciones [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Notación.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Notación.pdf)
+  * 4.2 Espacios de solución [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Espacios%20de%20solución.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Espacios%20de%20solución.pdf)
+  * 4.3 Solución gráfica [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Gráfico.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Gráfico.pdf)
+  * 4.5 Branch and bound [[pptx]](presentaciones/pptx/Solución%20de%20un%20Problema%20de%20PE%20-%20Método%20Branch%20%26%20Bound.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20Problema%20de%20PE%20-%20Método%20Branch%20%26%20Bound.pdf)
 
 * Semana 8
   * 4.4 Método Simplex
-    * Forma estándar [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%201%20Forma%20estándar.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%201%20Forma%20estándar.pdf{target=_blank})
-    * Algoritmo [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%202%20Algoritmo.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%202%20Algoritmo.pdf{target=_blank})
-    * Ejemplos en forma tabular [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%203%20Ejemplos%20en%20forma%20tabular.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%203%20Ejemplos%20en%20forma%20tabular.pdf{target=_blank})
-    * Casos especiales [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%204%20Casos%20especiales.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%204%20Casos%20especiales.pdf{target=_blank})
-    * Inicialización [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%205%20Inicialización.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%205%20Inicialización.pdf{target=_blank})
+    * Forma estándar [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%201%20Forma%20estándar.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%201%20Forma%20estándar.pdf)
+    * Algoritmo [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%202%20Algoritmo.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%202%20Algoritmo.pdf)
+    * Ejemplos en forma tabular [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%203%20Ejemplos%20en%20forma%20tabular.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%203%20Ejemplos%20en%20forma%20tabular.pdf)
+    * Casos especiales [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%204%20Casos%20especiales.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%204%20Casos%20especiales.pdf)
+    * Inicialización [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%205%20Inicialización.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%205%20Inicialización.pdf)
 * Semana 9
-  * 4.6 Complejidad [[pptx]](presentaciones/pptx/Complejidad%20Matemática.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%205%20Inicialización.pdf{target=_blank})
+  * 4.6 Complejidad [[pptx]](presentaciones/pptx/Complejidad%20Matemática.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%205%20Inicialización.pdf)
   * 4.7 Uso de software
 
 **Tema 5. Dualidad y sensibilidad**
 * Semana 9
-  * 5.1 Sensibilidad [[pptx]](presentaciones/pptx/Análisis%20de%20Sensibilidad.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Análisis%20de%20Sensibilidad.pdf{target=_blank})
-  * 5.2 Dualidad [[pptx]](presentaciones/pptx/Dualidad.pptx{target=_blank}) [[pdf]](presentaciones/pdf/Dualidad.pdf{target=_blank})
+  * 5.1 Sensibilidad [[pptx]](presentaciones/pptx/Análisis%20de%20Sensibilidad.pptx) [[pdf]](presentaciones/pdf/Análisis%20de%20Sensibilidad.pdf)
+  * 5.2 Dualidad [[pptx]](presentaciones/pptx/Dualidad.pptx) [[pdf]](presentaciones/pdf/Dualidad.pdf)
 * Semana 9-10
   * 5.3 Interpretación
 
