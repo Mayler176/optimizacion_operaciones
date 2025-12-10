@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+
+    <link rel="stylesheet" href="/assets/css/main.css">
+    
+    </head>
+<body>
+
+    <div class="content-wrapper">
+        {{ content }}
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Selecciona todos los enlaces (etiquetas <a>) en tu página
+            var links = document.querySelectorAll('a');
+
+            links.forEach(function(link) {
+                // Comprueba si el enlace es externo (no apunta a tu propio dominio)
+                // y si usa el protocolo http/https.
+                if (link.hostname !== window.location.hostname && link.protocol.includes('http')) {
+                    // 1. Establece target="_blank"
+                    link.setAttribute('target', '_blank');
+                    // 2. Establece rel="noopener noreferrer" (una buena práctica de seguridad)
+                    link.setAttribute('rel', 'noopener noreferrer');
+                }
+                
+                // Si también quieres que TUS ARCHIVOS (como el .pptx) se abran en una nueva pestaña, 
+                // usa la línea de abajo. Si ya usaste un enlace externo antes, la de arriba es mejor.
+                // Enlaces relativos a archivos (.pdf, .pptx, etc.)
+                var fileExtensions = ['.pdf', '.pptx', '.zip', '.doc', '.docx'];
+                var href = link.getAttribute('href');
+                
+                if (href) {
+                    var isFileLink = fileExtensions.some(function(ext) {
+                        return href.toLowerCase().endsWith(ext);
+                    });
+
+                    if (isFileLink) {
+                         link.setAttribute('target', '_blank');
+                         link.setAttribute('rel', 'noopener noreferrer');
+                    }
+                }
+            });
+        });
+    </script>
+    </body>
+</html>

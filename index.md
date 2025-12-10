@@ -9,6 +9,7 @@ layout: default
 
 ---
 
+[pptx](presentaciones/pptx/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pptx){:target="_blank"}
 
 ## Presentaciones
 

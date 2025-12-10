@@ -1,3 +1,5 @@
+markdown: kramdown
+
 theme: jekyll-theme-minimal
 logo: assets/logo.png
 title: Optimización de operaciones
