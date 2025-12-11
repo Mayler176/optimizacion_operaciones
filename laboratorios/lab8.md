@@ -28,7 +28,7 @@ layout: default
 * Comparar los nuevos resultados con la solución base y documentar las diferencias.
 
 
-## Paso 4: Reflexión y Aplicación Empresarial
+### Paso 4: Reflexión y Aplicación Empresarial
 * Discutir la importancia del análisis de sensibilidad en decisiones empresariales, identificando aplicaciones prácticas como:
 * Ajuste de precios en modelos de oferta y demanda.
 * Planeación de producción con cambios en disponibilidad de recursos.

@@ -11,8 +11,10 @@ layout: default
 
 ## Instrucciones
 * Instalar y configurar Gurobi en el entorno de Python.
+
     * Verificar que la instalación ha sido exitosa.
 * Crear un modelo de programación lineal que incluya:
+
     * Definición de variables de decisión.
     * Formulación de la función objetivo (maximización o minimización).
     * Establecimiento de restricciones del problema.
@@ -22,7 +24,7 @@ layout: default
     * Se verifique el cumplimiento de las restricciones.
     * Se analice el significado del valor de la función objetivo en el contexto del problema.
 
-Nota: Se puede hacer uso de TECgpt para guiarte en el proceso de programación.
+Nota: Se puede hacer uso de *TECgpt* para guiarte en el proceso de programación.
 
 ## Documentación a entregar:
 * Código Python en .py con nombre y explicaciones claras

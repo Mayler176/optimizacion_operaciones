@@ -3,14 +3,14 @@ layout: default
 ---
 
 
-## Presentaciones
+# Presentaciones
 
-**Tema 1: Introducción a la investigación de operaciones**
+## Tema 1: Introducción a la investigación de operaciones
 * Semana 1
   * 1.1 Historia de la investigación de operaciones [[pptx]](presentaciones/pptx/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pptx) [[pdf]](presentaciones/pdf/Historia%2C%20aplicaciones%20y%20tendencias%20de%20IO.pdf)
   * 1.2 Introducción a la programación lineal y entera [[pptx]](presentaciones/pptx/Introducción%20al%20curso.pptx) [[pdf]](presentaciones/pdf/Introducción%20al%20curso.pdf)
 
-**Tema 2: Modelación de procesos con programación lineal**
+## Tema 2: Modelación de procesos con programación lineal
 * Semana 1
   * 2.1 Componentes y principios de un modelo matemático de programación lineal [[pptx]](presentaciones/pptx/Programación%20Lineal%20-%20Principios%20y%20componentes%20de%20un%20modelo.pptx) [[pdf]](presentaciones/pdf/Programación%20Lineal%20-%20Principios%20y%20componentes%20de%20un%20modelo.pdf)
 * Semana 2
@@ -18,14 +18,14 @@ layout: default
 * Semana 3-5,7
   * 2.3 Problemas clásicos de programación lineal [[pptx]](presentaciones/pptx/Modelación%20de%20PPLs%20.pptx) [[pdf]](presentaciones/pdf/Modelación%20de%20PPLs%20.pdf)
 
-**Tema 3: Modelación de procesos con programación entera mixta**
+## Tema 3: Modelación de procesos con programación entera mixta
 * Semana 5
   * 3.1 Introducción a PE [[pptx]](presentaciones/pptx/Introducción%20a%20Programación%20Entera.pptx) [[pdf]](presentaciones/pdf/Introducción%20a%20Programación%20Entera.pdf)
   * 3.2 Problemas clásicos de PE
 * Semana 6-7
   * 3.3 Problemas de redes [[pptx]](presentaciones/pptx/Modelos%20de%20Redes.pptx) [[pdf]](presentaciones/pdf/Modelos%20de%20Redes.pdf)
 
-**Tema 4. Soluciones con algoritmos algebraicos**
+## Tema 4. Soluciones con algoritmos algebraicos
 * Semana 2
   * 4.1 Notaciones [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Notación.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Notación.pdf)
   * 4.2 Espacios de solución [[pptx]](presentaciones/pptx/Solución%20de%20un%20PPL%20-%20Espacios%20de%20solución.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Espacios%20de%20solución.pdf)
@@ -43,7 +43,7 @@ layout: default
   * 4.6 Complejidad [[pptx]](presentaciones/pptx/Complejidad%20Matemática.pptx) [[pdf]](presentaciones/pdf/Solución%20de%20un%20PPL%20-%20Método%20Simplex.%205%20Inicialización.pdf)
   * 4.7 Uso de software
 
-**Tema 5. Dualidad y sensibilidad**
+## Tema 5. Dualidad y sensibilidad
 * Semana 9
   * 5.1 Sensibilidad [[pptx]](presentaciones/pptx/Análisis%20de%20Sensibilidad.pptx) [[pdf]](presentaciones/pdf/Análisis%20de%20Sensibilidad.pdf)
   * 5.2 Dualidad [[pptx]](presentaciones/pptx/Dualidad.pptx) [[pdf]](presentaciones/pdf/Dualidad.pdf)
@@ -51,7 +51,7 @@ layout: default
   * 5.3 Interpretación
 
 
-## Laboratorios
+# Laboratorios
 
 * [Laboratorio 1](laboratorios/lab1.md)
 * [Laboratorio 2](laboratorios/lab2.md)
@@ -66,7 +66,7 @@ layout: default
 
 
 
-## Códigos en python
+# Códigos en python
 
 * Problema 1:  [quimicos.ipynb](https://colab.research.google.com/drive/13w5wvnSgYeQuqmiupN3cSG22ZlvC1Q6O?usp=drive_link)
 * Problema 2:  [la_dieta.ipynb](https://colab.research.google.com/drive/1SEW0n8bTpL_slx-noklesg6Llc5raErZ?usp=drive_link)

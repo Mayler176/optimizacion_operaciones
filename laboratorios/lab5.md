@@ -13,12 +13,12 @@ layout: default
 * Descargar un conjunto de datos en formato CSV o Excel.
 * Cargar y explorar los datos en Python utilizando Pandas.
 * Diseñar un modelo de optimización que utilice los datos cargados.
+
     * Definir variables de decisión, función objetivo y restricciones.
 * Resolver el modelo en Gurobi y obtener la solución óptima.
 * Interpretar los resultados verificando el impacto de los datos en la solución.
 * Comparar diferentes escenarios, modificando los datos de entrada y observando cómo cambia la solución óptima.
-
-Nota: Se puede hacer uso de TECgpt para guiarte en el proceso de programación.
+*Nota: Se puede hacer uso de TECgpt para guiarte en el proceso de programación.*
 
 ## Documentación a entregar:
 * Código Python en .py.

@@ -19,6 +19,7 @@ layout: default
 
 ### Paso 2: Análisis de Uso de Recursos y Restricciones
 * Identificar el uso de los recursos en la solución óptima, verificando:
+
     * Cuánto recurso se utilizó en cada restricción del modelo.
     * Si alguna restricción se cumplió con igualdad o si hubo holgura.
 * Comparar el uso de recursos con la disponibilidad total y analizar si se están utilizando eficientemente.
@@ -27,6 +28,7 @@ layout: default
 ### Paso 3: Evaluación de Factibilidad y Eficiencia de la Solución
 * Verificar si la solución es factible, asegurando que todas las restricciones se cumplan.
 * Evaluar si la solución es eficiente, considerando:
+
     * Si es posible mejorar la solución con los mismos recursos.
     * Si hay recursos subutilizados o si la demanda no está completamente satisfecha.
 * Discutir el impacto de la solución en la toma de decisiones, considerando posibles ajustes en el modelo para mejorar los resultados.

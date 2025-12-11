@@ -15,6 +15,7 @@ layout: default
 
 ### Paso 2: Formulación y resolución del modelo en Gurobi
 * Formular un modelo de optimización utilizando los datos cargados.
+
    * Definir las variables de decisión.
    * Establecer la función objetivo.
    * Definir las restricciones del problema.
@@ -23,6 +24,7 @@ layout: default
 
 ### Paso 3: Análisis e interpretación de resultados
 * Extraer e interpretar los resultados del modelo:
+
     * Valores óptimos de las variables de decisión.
     * Valor de la función objetivo.
     * Cumplimiento de restricciones.
@@ -33,6 +35,7 @@ layout: default
 ### Paso 4: Análisis de sensibilidad
 * Obtener los precios duales (shadow prices) y los costos reducidos (reduced costs) desde el modelo resuelto.
 * Evaluar al menos uno de los siguientes escenarios:
+
     * Modificación en los coeficientes de la función objetivo.
     * Cambios en los límites de las restricciones.
     * Inclusión de una nueva restricción o eliminación de una existente.
