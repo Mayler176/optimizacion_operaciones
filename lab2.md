@@ -23,33 +23,37 @@ Deberás ingresar las siguientes restricciones y función objetivo en Desmos par
 
 #### Problema 1
 * Maximizar: $$20 X + 14 Y$$
+
 Sujeto a:
-* $$2 X + 3 Y ≤ 35$$
-* $$1.5 X + 1.9 Y ≤ 18$$
-* $$2 X + 7 Y ≤ 40$$
-* $$X, Y ≥ 0$$
+* \\(2 X + 3 Y ≤ 35\\)
+* \\(1.5 X + 1.9 Y ≤ 18\\)
+* \\(2 X + 7 Y ≤ 40\\)
+* \\(X, Y ≥ 0\\)
 
 #### Problema 2
-* Maximizar $$3 X + 2 Y$$
+* Maximizar \\(3 X + 2 Y\\)
+
 Sujeto a
-* $$2 X + Y ≤ 2$$
-* $$3 X + 4 Y ≥ 12$$
-* $$X, Y ≥ 0$$
+* \\(2 X + Y ≤ 2\\)
+* \\(3 X + 4 Y ≥ 12\\)
+* \\(X, Y ≥ 0\\)
 
 #### Problema 3
-* Maximizar $$ 150 X + 300 Y$$
+* Maximizar \\( 150 X + 300 Y\\)
+
 Sujeto a:
-* $$8 X + 2 Y ≥ 16$$
-* $$X + Y ≥ 5$$
-* $$2 X + 7 Y ≥ 20$$
-* $$X, Y ≥ 0$$
+* \\(8 X + 2 Y ≥ 16\\)
+* \\(X + Y ≥ 5\\)
+* \\(2 X + 7 Y ≥ 20\\)
+* \\(X, Y ≥ 0\\)
 
 #### Problema 4
-* Maximizar: $$2 X + 4 Y$$
+* Maximizar: \\(2 X + 4 Y\\)
+
 Sujeto a: 
-* $$ X + 2 Y ≤ 5 $$
-* $$ X + Y ≤ 4$$
-* $$X, Y ≥ 0$$
+* \\( X + 2 Y ≤ 5 \\)
+* \\( X + Y ≤ 4\\)
+* \\(X, Y ≥ 0\\)
 
 ### Parte 2: Análisis detallado del problema con solución óptima única
 

@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Presentaciones {: #presentaciones}
+<h1 id="presentaciones">Presentaciones</h1>
 
 ## Tema 1: Introducción a la investigación de operaciones
 * Semana 1
@@ -51,7 +51,7 @@ layout: default
   * 5.3 Interpretación
 
 
-# Laboratorios {: #laboratorios}
+<h1 id="laboratorios">Laboratorios</h1>
 
 * [Laboratorio 1](lab1.md)
 * [Laboratorio 2](lab2.md)
@@ -66,7 +66,8 @@ layout: default
 
 
 
-# Códigos en python {: #codigos-en-python}
+
+<h1 id="codigos-en-python">Códigos en python</h1>
 
 * Problema 1:  [quimicos.ipynb](https://colab.research.google.com/drive/13w5wvnSgYeQuqmiupN3cSG22ZlvC1Q6O?usp=drive_link)
 * Problema 2:  [la_dieta.ipynb](https://colab.research.google.com/drive/1SEW0n8bTpL_slx-noklesg6Llc5raErZ?usp=drive_link)
