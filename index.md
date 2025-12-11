@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Presentaciones
+# Presentaciones {: #presentaciones}
 
 ## Tema 1: Introducción a la investigación de operaciones
 * Semana 1
@@ -51,22 +51,22 @@ layout: default
   * 5.3 Interpretación
 
 
-# Laboratorios
+# Laboratorios {: #laboratorios}
 
-* [Laboratorio 1](laboratorios/lab1.md)
-* [Laboratorio 2](laboratorios/lab2.md)
-* [Laboratorio 3](laboratorios/lab3.md)
-* [Laboratorio 4](laboratorios/lab4.md)
-* [Laboratorio 5](laboratorios/lab5.md)
-* [Laboratorio 6](laboratorios/lab6.md)
-* [Laboratorio 7](laboratorios/lab7.md)
-* [Laboratorio 8](laboratorios/lab8.md)
-* [Laboratorio 9](laboratorios/lab9.md)
-* [Laboratorio 10](laboratorios/lab10.md)
+* [Laboratorio 1](lab1.md)
+* [Laboratorio 2](lab2.md)
+* [Laboratorio 3](lab3.md)
+* [Laboratorio 4](lab4.md)
+* [Laboratorio 5](lab5.md)
+* [Laboratorio 6](lab6.md)
+* [Laboratorio 7](lab7.md)
+* [Laboratorio 8](lab8.md)
+* [Laboratorio 9](lab9.md)
+* [Laboratorio 10](lab10.md)
 
 
 
-# Códigos en python
+# Códigos en python {: #codigos-en-python}
 
 * Problema 1:  [quimicos.ipynb](https://colab.research.google.com/drive/13w5wvnSgYeQuqmiupN3cSG22ZlvC1Q6O?usp=drive_link)
 * Problema 2:  [la_dieta.ipynb](https://colab.research.google.com/drive/1SEW0n8bTpL_slx-noklesg6Llc5raErZ?usp=drive_link)
